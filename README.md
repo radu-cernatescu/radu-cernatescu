@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Radu Cernatescu. New graduate of Software Development from Seneca College
+- 👋 Hi, I’m Radu Cernatescu. New graduate of the Software Development degree program from Seneca College
 - 👀 I’m interested in cloud infrastructure, networking and security, and general backend development
 - 🌱 I’m currently learning to expand my DevOps skills and Machine Learning knowledge
 - 📫 How to reach me: e-mail at raducernatescu@yahoo.ca
