@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/raducernatescu/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/raducernatescu">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
-Hi, I’m Radu Cernatescu. I'm a new graduate of the Software Development degree program from Seneca College.
-- 👀 I’m interested in cloud infrastructure, networking and security, and general backend development
-- 🌱 I’m currently learning to expand my DevOps skills and Machine Learning knowledge
+Hi, I’m Radu Cernatescu. I’m a software engineer at Trysight, creating innovative assistive devices that empower people with vision impairments.
 
 ### Tools & Technologies
 #### Languages
@@ -35,6 +33,4 @@ Hi, I’m Radu Cernatescu. I'm a new graduate of the Software Development degree
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=radu-cernatescu&card_width=650)](https://git.io/streak-stats)
 
