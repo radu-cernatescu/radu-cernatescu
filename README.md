@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/raducernatescu/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/raducernatescu">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
-I’m Radu Cernatescu, a software engineer at Trysight creating innovative assistive devices that empower people with vision impairments.
-
 ### Tools & Technologies
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
